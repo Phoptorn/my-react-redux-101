@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; // yarn create react-app my-app --template redux-typescript
 import { createRoot } from 'react-dom/client';
 import { Provider } from 'react-redux';
 import { store } from './app/store';
